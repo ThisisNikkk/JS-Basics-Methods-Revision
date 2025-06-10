@@ -6,3 +6,4 @@ b = [2,3,5,6,8]
 
 const ans = a.filter(items => b.includes(items))
 console.log(ans)
+
